@@ -1,0 +1,9 @@
+Some useful content
+
+Basic information about how to write queries - i.e. views, order by
+
+Recommended to look at CHECK constraint - 
+
+DOB DATE NOT NULL CHECK (DOB > '1922-01-01');
+
+This prevents the user from entering a date of birth before 1st January 1922 as this is not a feesible DOB.
